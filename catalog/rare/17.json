@@ -1,0 +1,33 @@
+{
+  "name": "JAMONG ㅓ Rare",
+  "description": "A Rare Genesis JAMONG based on the Korean vowel ㅓ.",
+  "image": "http://127.0.0.1:8001/assets/rare/17.png",
+  "category": "image",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "ㅓ"
+    },
+    {
+      "trait_type": "Character Slot",
+      "value": "17"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Season",
+      "value": "Genesis"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "http://127.0.0.1:8001/assets/rare/17.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

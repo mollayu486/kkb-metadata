@@ -1,0 +1,33 @@
+{
+  "name": "JAMONG ㅏ Normal",
+  "description": "A Normal Genesis JAMONG based on the Korean vowel ㅏ.",
+  "image": "http://127.0.0.1:8001/assets/normal/15.png",
+  "category": "image",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "ㅏ"
+    },
+    {
+      "trait_type": "Character Slot",
+      "value": "15"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Season",
+      "value": "Genesis"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "http://127.0.0.1:8001/assets/normal/15.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

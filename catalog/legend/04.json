@@ -1,0 +1,33 @@
+{
+  "name": "JAMONG ㄹ Legend",
+  "description": "A Legend Genesis JAMONG based on the Korean consonant ㄹ.",
+  "image": "http://127.0.0.1:8001/assets/legend/04.png",
+  "category": "image",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "ㄹ"
+    },
+    {
+      "trait_type": "Character Slot",
+      "value": "4"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legend"
+    },
+    {
+      "trait_type": "Season",
+      "value": "Genesis"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "http://127.0.0.1:8001/assets/legend/04.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

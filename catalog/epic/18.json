@@ -1,0 +1,33 @@
+{
+  "name": "JAMONG ㅕ Epic",
+  "description": "A Epic Genesis JAMONG based on the Korean vowel ㅕ.",
+  "image": "http://127.0.0.1:8001/assets/epic/18.png",
+  "category": "image",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "ㅕ"
+    },
+    {
+      "trait_type": "Character Slot",
+      "value": "18"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Season",
+      "value": "Genesis"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "http://127.0.0.1:8001/assets/epic/18.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
