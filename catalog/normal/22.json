@@ -1,7 +1,7 @@
 {
   "name": "JAMONG ㅠ Normal",
   "description": "A Normal Genesis JAMONG based on the Korean vowel ㅠ.",
-  "image": "http://127.0.0.1:8001/assets/normal/22.png",
+  "image": "https://mollayu486.github.io/kkb-metadata/assets/normal/22.png",
   "category": "image",
   "attributes": [
     {
@@ -24,7 +24,7 @@
   "properties": {
     "files": [
       {
-        "uri": "http://127.0.0.1:8001/assets/normal/22.png",
+        "uri": "https://mollayu486.github.io/kkb-metadata/assets/normal/22.png",
         "type": "image/png"
       }
     ],

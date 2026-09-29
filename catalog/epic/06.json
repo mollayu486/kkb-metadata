@@ -1,7 +1,7 @@
 {
   "name": "JAMONG ㅂ Epic",
   "description": "A Epic Genesis JAMONG based on the Korean consonant ㅂ.",
-  "image": "http://127.0.0.1:8001/assets/epic/06.png",
+  "image": "https://mollayu486.github.io/kkb-metadata/assets/epic/06.png",
   "category": "image",
   "attributes": [
     {
@@ -24,7 +24,7 @@
   "properties": {
     "files": [
       {
-        "uri": "http://127.0.0.1:8001/assets/epic/06.png",
+        "uri": "https://mollayu486.github.io/kkb-metadata/assets/epic/06.png",
         "type": "image/png"
       }
     ],
